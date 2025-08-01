@@ -1,0 +1,4 @@
+room_type,description,price,cancellation_policy,max_occupancy,available_units,breakfast_included,meals_included
+Chalet,Chalet,"¥90,909",N/A,8,6,No,No meals included
+Chalet,N/A,"¥95,455",N/A,9,6,No,No meals included
+Chalet,N/A,"¥100,000",N/A,10,6,No,No meals included
